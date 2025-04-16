@@ -5,12 +5,10 @@
 **Travel Logger** is a Java Swing-based GUI application that allows users to record travel data such as prefectures/states, cities, modes of transportation, and personal impressions for Japan and the United States.  
 Logs are saved to a CSV file, and visited countries are visually highlighted in red on a world map.
 
----
 
 ## 🖼️ Screenshot
 ![image](https://github.com/user-attachments/assets/bd1bdea1-43b4-46f2-acee-8f286d43d6ea)
 
----
 
 ## ✅ Features
 
@@ -22,16 +20,18 @@ Logs are saved to a CSV file, and visited countries are visually highlighted in 
 - Travel logs are saved as CSV (`travel_logs.csv`)  
 - Visited countries are marked in red on a world map
 
----
-
 ## 📁 Project Structure
 
-travel_logger/ ├── GUI_main_screen.java ├── GUI_country_map.java ├── city.java ├── country.java ├── State.java ├── transport.java ├── VisitedCountries.java ├── World_Map.jpeg └── travel_logs.csv
-
-yaml
-Copy
-Edit
-
+travel_logger/
+├── GUI_main_screen.java
+├── GUI_country_map.java
+├── city.java
+├── country.java
+├── State.java
+├── transport.java 
+├── VisitedCountries.java 
+├── World_Map.jpeg 
+└── travel_logs.csv
 
 ## ▶️ How to Run
 
